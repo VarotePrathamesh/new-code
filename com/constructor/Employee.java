@@ -19,7 +19,8 @@ public class Employee {
 		Employee e2 =new Employee(1500,"ram");
 		Employee e3 =new Employee(2000,"robert");
 		Employee e4 =new Employee(2400,"ajay");
-		Employee e5 =new Employee(3000,"vijay");
+		Employee e5 =new Employee(3000,"vijay" );
+		System.out.println("hi");
 		
 		
 		
